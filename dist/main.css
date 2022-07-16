@@ -103,6 +103,7 @@ body {
   margin: auto;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
+  margin-top: 100px;
 }
 .section-one .section-left {
   margin: auto;
@@ -161,15 +162,16 @@ body {
   border-bottom-right-radius: 10px;
 }
 
+/*
 .attribution {
   font-size: 1rem;
   text-align: center;
   margin-top: 80px;
+  a {
+    color: hsl(228, 45%, 44%);
+  }
 }
-.attribution a {
-  color: hsl(228deg, 45%, 44%);
-}
-
+*/
 @media (min-width: 300px) and (max-width: 1286px) {
   body {
     background-color: var(--Very-dark-blue);
